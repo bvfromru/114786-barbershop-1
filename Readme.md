@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Виdталий Будкин](https://up.htmlacademy.ru/htmlcss/16/user/114786).
+* Студент: [Виталий Будкин](https://up.htmlacademy.ru/htmlcss/16/user/114786).
 
 ---
 
